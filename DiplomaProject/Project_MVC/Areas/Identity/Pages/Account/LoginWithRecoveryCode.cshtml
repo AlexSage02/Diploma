@@ -1,0 +1,29 @@
+﻿@page
+@model LoginWithRecoveryCodeModel
+@{
+    ViewData["Title"] = "Перевірка коду відновлення";
+}
+
+<h1>@ViewData["Title"]</h1>
+<hr />
+<p>
+    Ви надіслали запит на вхід за допомогою коду відновлення. Цей вхід не буде запам’ятатися, 
+    доки ви не введете код програми автентифікації під час входу або не вимкнете 2FA та не ввійдете знову.
+</p>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-floating">
+                <input asp-for="Input.RecoveryCode" class="form-control" autocomplete="off" />
+                <label asp-for="Input.RecoveryCode" class="form-label"></label>
+                <span asp-validation-for="Input.RecoveryCode" class="text-danger"></span>
+            </div>
+            <button type="submit" class="w-100 btn btn-lg btn-primary">Увійти</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

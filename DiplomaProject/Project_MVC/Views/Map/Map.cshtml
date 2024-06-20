@@ -1,0 +1,134 @@
+﻿@{
+    ViewData["Title"] = "Карта";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div id="map" style="height: 500px; width: 100%;"></div>
+
+<style>
+    .custom-map-control-button {
+        background-color: #fff;
+        border: 2px solid #fff;
+        border-radius: 3px;
+        box-shadow: 0 2px 6px rgba(0,0,0,.3);
+        cursor: pointer;
+        margin: 10px;
+        padding: 0;
+        width: 40px;
+        height: 40px;
+        background-image: url('https://maps.gstatic.com/tactile/mylocation/mylocation-sprite-1x.png');
+        background-size: 360px 40px;
+        background-position: 0 0;
+        background-repeat: no-repeat;
+    }
+</style>
+
+<script>
+    function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+            center: { lat: 50.4501, lng: 30.5234 }, // Центр карти (Київ)
+            zoom: 8
+        });
+
+        let eventsData = [];
+
+        // Завантаження координат подій
+        fetch('/Event/GetEventLocations')
+            .then(response => response.json())
+            .then(data => {
+                eventsData = data; // Зберігаємо дані подій
+                data.forEach(event => {
+                    var lat = parseFloat(event.latitude);
+                    var lng = parseFloat(event.longitude);
+                    var marker = new google.maps.Marker({
+                        position: { lat: lat, lng: lng },
+                        map: map,
+                        title: event.name
+                    });
+
+                    var infowindow = new google.maps.InfoWindow({
+                        content: `
+                                            <div>
+                                                <h3>${event.name}</h3>
+                                                <p>Тип: ${event.type}</p>
+                                                <p>Опис: ${event.address}</p>
+                                                <p>Координати: (${lat}, ${lng})</p>
+                                                <p>Час: ${new Date(event.time).toLocaleString()}</p> <!-- Відображення часу події -->
+                                            </div>
+                                        `
+                    });
+
+                    marker.addListener('click', function () {
+                        infowindow.open(map, marker);
+                    });
+                });
+            })
+            .catch(error => console.error('Error fetching event locations:', error));
+
+        // Додавання кнопки геолокації на карту
+        const locationButton = document.createElement("button");
+        locationButton.classList.add("custom-map-control-button");
+
+        map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(locationButton);
+
+        locationButton.addEventListener("click", () => {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(
+                    (position) => {
+                        const userLat = position.coords.latitude;
+                        const userLng = position.coords.longitude;
+
+                        // Знаходимо найближчу подію
+                        let nearestEvent = null;
+                        let minDistance = Number.MAX_VALUE;
+
+                        eventsData.forEach(event => {
+                            const eventLat = parseFloat(event.latitude);
+                            const eventLng = parseFloat(event.longitude);
+
+                            const distance = Math.sqrt(Math.pow(userLat - eventLat, 2) + Math.pow(userLng - eventLng, 2));
+                            if (distance < minDistance) {
+                                minDistance = distance;
+                                nearestEvent = event;
+                            }
+                        });
+
+                        if (nearestEvent && minDistance <= 0.1) {
+                            alert(`Найближча подія: ${nearestEvent.name}\nТип: ${nearestEvent.type}\nАдреса: ${nearestEvent.address}\nКоординати: (${nearestEvent.latitude}, ${nearestEvent.longitude})\nЧас: ${new Date(nearestEvent.time).toLocaleString()}`);
+                        } else {
+                            alert('Немає подій поблизу.');
+                        }
+
+                        // Центруємо карту на поточне місцезнаходження користувача
+                        map.setCenter({ lat: userLat, lng: userLng });
+                        map.setZoom(15);
+
+                        // Створення маркера для місцезнаходження користувача
+                        new google.maps.Marker({
+                            position: { lat: userLat, lng: userLng },
+                            map: map,
+                            title: "Ваше місцезнаходження"
+                        });
+                    },
+                    (error) => {
+                        console.error('Error getting geolocation: ', error);
+                        alert('Не вдалося отримати ваше місцезнаходження. Перевірте дозволи на геолокацію.');
+                    }
+                );
+            } else {
+                alert('Ваш браузер не підтримує геолокацію.');
+            }
+        });
+    }
+
+    function handleLocationError(browserHasGeolocation, pos) {
+        alert(browserHasGeolocation ?
+            "Помилка: Сервіс геолокації не вдалося. Перевірте дозволи." :
+            "Помилка: Ваш браузер не підтримує геолокацію.");
+        map.setCenter(pos);
+    }
+</script>
+
+<!-- Додайте параметр language=uk до URL завантаження Google Maps API -->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyANBu__E5I3uQjeRg4VRYS0tlw_KgQ8ZM0&callback=initMap&language=uk" async defer></script>

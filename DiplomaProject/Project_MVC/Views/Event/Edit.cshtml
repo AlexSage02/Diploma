@@ -1,0 +1,47 @@
+﻿@model EventModel
+
+<form method="post">
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">Edit Event</h2>
+            <hr />
+        </div>
+        <div class="mb-3">
+            <label asp-for="Name">Name</label>
+            <input asp-for="Name" class="form-control" readonly />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Type">Type</label>
+            <input asp-for="Type" class="form-control" />
+            <span asp-validation-for="Type" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Address">Address</label>
+            <input asp-for="Address" class="form-control" />
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Quantity">Quantity</label>
+            <input asp-for="Quantity" class="form-control" />
+            <span asp-validation-for="Quantity" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Time">Time</label>
+            <input asp-for="Time" class="form-control" type="datetime-local" />
+            <span asp-validation-for="Time" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Latitude">Latitude</label>
+            <input asp-for="Latitude" class="form-control" type="number" step="0.000001" />
+            <span asp-validation-for="Latitude" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Longitude">Longitude</label>
+            <input asp-for="Longitude" class="form-control" type="number" step="0.000001" />
+            <span asp-validation-for="Longitude" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary" style="width:150px">Save</button>
+        <a asp-controller="Event" asp-action="Events" class="btn btn-secondary" style="width:150px">Back to List</a>
+    </div>
+</form>

@@ -1,0 +1,71 @@
+﻿@model EventModel
+
+<form method="post">
+	<div class="border p-3 mt-4">
+		<div class="row pb-2">
+			<h2 class="text-primary">Додавання події</h2>
+			<hr />
+		</div>
+		<div class="mb-3">
+			<label asp-for="Name">Назва</label>
+			<input asp-for="Name" class="form-control" />
+			<span asp-validation-for="Name" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Type">Тип</label>
+			<input asp-for="Type" class="form-control" />
+			<span asp-validation-for="Type" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Address">Опис</label>
+			<input asp-for="Address" class="form-control" />
+			<span asp-validation-for="Address" class="text-danger"></span>
+		</div>
+		@* <div class="mb-3">
+			<label asp-for="Quantity">Quantity</label>
+			<input asp-for="Quantity" class="form-control" />
+			<span asp-validation-for="Quantity" class="text-danger"></span>
+		</div> *@
+		<div class="mb-3">
+			<label asp-for="Time">Дата та час</label>
+			<input asp-for="Time" class="form-control" type="datetime-local" />
+			<span asp-validation-for="Time" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Latitude">Широта</label>
+			<input asp-for="Latitude" class="form-control" type="number" step="0.000001" id="latitude" />
+			<span asp-validation-for="Latitude" class="text-danger"></span>
+		</div>
+		<div class="mb-3">
+			<label asp-for="Longitude">Довгота</label>
+			<input asp-for="Longitude" class="form-control" type="number" step="0.000001" id="longitude" />
+			<span asp-validation-for="Longitude" class="text-danger"></span>
+		</div>
+		<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+		<button type="button" class="btn btn-primary" id="geoButton" style="width:150px">Знайти моє місцезнаходження</button>
+		<button type="submit" class="btn btn-primary" style="width:150px">Додати подію</button>
+		<a asp-controller="Event" asp-action="Events" class="btn btn-secondary" style="width:150px">Повернутися назад</a>
+	</div>
+</form>
+
+<script>
+	document.getElementById('geoButton').addEventListener('click', function () {
+		if (navigator.geolocation) {
+			navigator.geolocation.getCurrentPosition(
+				(position) => {
+					const latitude = position.coords.latitude.toFixed(6);
+					const longitude = position.coords.longitude.toFixed(6);
+
+					document.getElementById('latitude').value = latitude;
+					document.getElementById('longitude').value = longitude;
+				},
+				(error) => {
+					console.error('Error getting geolocation: ', error);
+					alert('Не вдалося отримати ваше місцезнаходження. Перевірте дозволи на геолокацію.');
+				}
+			);
+		} else {
+			alert('Ваш браузер не підтримує геолокацію.');
+		}
+	});
+</script>

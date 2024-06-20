@@ -1,0 +1,132 @@
+D:\КПІ\NET\Lab3_DAL\Lab3_DAL\bin\Debug\net6.0\Project_DAL.deps.json
+D:\КПІ\NET\Lab3_DAL\Lab3_DAL\bin\Debug\net6.0\Project_DAL.dll
+D:\КПІ\NET\Lab3_DAL\Lab3_DAL\bin\Debug\net6.0\Project_DAL.pdb
+D:\КПІ\NET\Lab3_DAL\Lab3_DAL\obj\Debug\net6.0\Project_DAL.csproj.AssemblyReference.cache
+D:\КПІ\NET\Lab3_DAL\Lab3_DAL\obj\Debug\net6.0\Project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПІ\NET\Lab3_DAL\Lab3_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfoInputs.cache
+D:\КПІ\NET\Lab3_DAL\Lab3_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfo.cs
+D:\КПІ\NET\Lab3_DAL\Lab3_DAL\obj\Debug\net6.0\Project_DAL.csproj.CoreCompileInputs.cache
+D:\КПІ\NET\Lab3_DAL\Lab3_DAL\obj\Debug\net6.0\Project_DAL.dll
+D:\КПІ\NET\Lab3_DAL\Lab3_DAL\obj\Debug\net6.0\refint\Project_DAL.dll
+D:\КПІ\NET\Lab3_DAL\Lab3_DAL\obj\Debug\net6.0\Project_DAL.pdb
+D:\КПІ\NET\Lab3_DAL\Lab3_DAL\obj\Debug\net6.0\ref\Project_DAL.dll
+D:\КПІ\NET\Project\_DAL\bin\Debug\net6.0\Project_DAL.deps.json
+D:\КПІ\NET\Project\_DAL\bin\Debug\net6.0\Project_DAL.dll
+D:\КПІ\NET\Project\_DAL\bin\Debug\net6.0\Project_DAL.pdb
+D:\КПІ\NET\Project\_DAL\obj\Debug\net6.0\Project_DAL.csproj.AssemblyReference.cache
+D:\КПІ\NET\Project\_DAL\obj\Debug\net6.0\Project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПІ\NET\Project\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfoInputs.cache
+D:\КПІ\NET\Project\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfo.cs
+D:\КПІ\NET\Project\_DAL\obj\Debug\net6.0\Project_DAL.csproj.CoreCompileInputs.cache
+D:\КПІ\NET\Project\_DAL\obj\Debug\net6.0\Project_DAL.dll
+D:\КПІ\NET\Project\_DAL\obj\Debug\net6.0\refint\Project_DAL.dll
+D:\КПІ\NET\Project\_DAL\obj\Debug\net6.0\Project_DAL.pdb
+D:\КПІ\NET\Project\_DAL\obj\Debug\net6.0\ref\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Project\_DAL\bin\Debug\net6.0\Project_DAL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\Project\_DAL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Project\_DAL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Project\_DAL\obj\Debug\net6.0\Project_DAL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\Project\_DAL\obj\Debug\net6.0\Project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\Project\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\Project\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\Project\_DAL\obj\Debug\net6.0\Project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\Project\_DAL\obj\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Project\_DAL\obj\Debug\net6.0\refint\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Project\_DAL\obj\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Project\_DAL\obj\Debug\net6.0\ref\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_DAL\bin\Debug\net6.0\Project_DAL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_DAL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_DAL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_DAL\obj\Debug\net6.0\Project_DAL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_DAL\obj\Debug\net6.0\Project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_DAL\obj\Debug\net6.0\Project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_DAL\obj\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_DAL\obj\Debug\net6.0\refint\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_DAL\obj\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_DAL\obj\Debug\net6.0\ref\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_DAL\bin\Debug\net6.0\Project_DAL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_DAL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_DAL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_DAL\obj\Debug\net6.0\Project_DAL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_DAL\obj\Debug\net6.0\Project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_DAL\obj\Debug\net6.0\Project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_DAL\obj\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_DAL\obj\Debug\net6.0\refint\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_DAL\obj\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_DAL\obj\Debug\net6.0\ref\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_DAL\bin\Debug\net6.0\Project_DAL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_DAL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_DAL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_DAL\obj\Debug\net6.0\Project_DAL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_DAL\obj\Debug\net6.0\Project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_DAL\obj\Debug\net6.0\Project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_DAL\obj\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_DAL\obj\Debug\net6.0\refint\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_DAL\obj\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_DAL\obj\Debug\net6.0\ref\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_DAL\bin\Debug\net6.0\Project_DAL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_DAL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_DAL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_DAL\obj\Debug\net6.0\Project_DAL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_DAL\obj\Debug\net6.0\Project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_DAL\obj\Debug\net6.0\Project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_DAL\obj\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_DAL\obj\Debug\net6.0\refint\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_DAL\obj\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_DAL\obj\Debug\net6.0\ref\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_DAL\bin\Debug\net6.0\Project_DAL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_DAL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_DAL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_DAL\obj\Debug\net6.0\Project_DAL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_DAL\obj\Debug\net6.0\Project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_DAL\obj\Debug\net6.0\Project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_DAL\obj\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_DAL\obj\Debug\net6.0\refint\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_DAL\obj\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_DAL\obj\Debug\net6.0\ref\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_DAL\bin\Debug\net6.0\Project_DAL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_DAL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_DAL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_DAL\obj\Debug\net6.0\Project_DAL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_DAL\obj\Debug\net6.0\Project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_DAL\obj\Debug\net6.0\Project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_DAL\obj\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_DAL\obj\Debug\net6.0\refint\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_DAL\obj\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_DAL\obj\Debug\net6.0\ref\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_DAL\bin\Debug\net6.0\Project_DAL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_DAL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_DAL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_DAL\obj\Debug\net6.0\Project_DAL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_DAL\obj\Debug\net6.0\Project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_DAL\obj\Debug\net6.0\Project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_DAL\obj\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_DAL\obj\Debug\net6.0\refint\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_DAL\obj\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_DAL\obj\Debug\net6.0\ref\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_DAL\bin\Debug\net6.0\Project_DAL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_DAL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_DAL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_DAL\obj\Debug\net6.0\Project_DAL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_DAL\obj\Debug\net6.0\Project_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_DAL\obj\Debug\net6.0\Project_DAL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_DAL\obj\Debug\net6.0\Project_DAL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_DAL\obj\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_DAL\obj\Debug\net6.0\refint\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_DAL\obj\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_DAL\obj\Debug\net6.0\ref\Project_DAL.dll

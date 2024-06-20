@@ -1,0 +1,165 @@
+D:\КПІ\NET\Lab3_DAL\Lab3_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+D:\КПІ\NET\Lab3_DAL\Lab3_BLL\bin\Debug\net6.0\Project_BLL.dll
+D:\КПІ\NET\Lab3_DAL\Lab3_BLL\bin\Debug\net6.0\Project_BLL.pdb
+D:\КПІ\NET\Lab3_DAL\Lab3_BLL\bin\Debug\net6.0\Project_DAL.dll
+D:\КПІ\NET\Lab3_DAL\Lab3_BLL\bin\Debug\net6.0\Project_DAL.pdb
+D:\КПІ\NET\Lab3_DAL\Lab3_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+D:\КПІ\NET\Lab3_DAL\Lab3_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПІ\NET\Lab3_DAL\Lab3_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+D:\КПІ\NET\Lab3_DAL\Lab3_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+D:\КПІ\NET\Lab3_DAL\Lab3_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+D:\КПІ\NET\Lab3_DAL\Lab3_BLL\obj\Debug\net6.0\Project_BLL.csproj.CopyComplete
+D:\КПІ\NET\Lab3_DAL\Lab3_BLL\obj\Debug\net6.0\Project_BLL.dll
+D:\КПІ\NET\Lab3_DAL\Lab3_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+D:\КПІ\NET\Lab3_DAL\Lab3_BLL\obj\Debug\net6.0\Project_BLL.pdb
+D:\КПІ\NET\Lab3_DAL\Lab3_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+D:\КПІ\NET\Project\_BLL\obj\Debug\net6.0\Project_BLL.dll
+D:\КПІ\NET\Project\_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+D:\КПІ\NET\Project\_BLL\obj\Debug\net6.0\Project_BLL.pdb
+D:\КПІ\NET\Project\_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+D:\КПІ\NET\Project\_BLL\bin\Debug\net6.0\Project_BLL.dll
+D:\КПІ\NET\Project\_BLL\bin\Debug\net6.0\Project_BLL.pdb
+D:\КПІ\NET\Project\_BLL\bin\Debug\net6.0\Project_DAL.dll
+D:\КПІ\NET\Project\_BLL\bin\Debug\net6.0\Project_DAL.pdb
+D:\КПІ\NET\Project\_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+D:\КПІ\NET\Project\_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\КПІ\NET\Project\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+D:\КПІ\NET\Project\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+D:\КПІ\NET\Project\_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+D:\КПІ\NET\Project\_BLL\obj\Debug\net6.0\Project_BLL.csproj.CopyComplete
+D:\КПІ\NET\Project\_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Project\_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\Project\_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Project\_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Project\_BLL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Project\_BLL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Project\_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\Project\_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\Project\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\Project\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\Project\_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\Project\_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Project\_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Project\_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Project\_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Project\_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_BLL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_BLL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\LibraryProject\_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_BLL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_BLL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Дипломний проект\EmergencyMapProject\_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_BLL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_BLL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\EmergencyMapProject\_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_BLL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_BLL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\Testfield\_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_BLL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_BLL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAP_PRE_FINAL\_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_BLL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_BLL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL\_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_BLL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_BLL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія\_BLL\obj\Debug\net6.0\ref\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_BLL\bin\Debug\net6.0\Project_BLL.deps.json
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_BLL\bin\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_BLL\bin\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_BLL\bin\Debug\net6.0\Project_DAL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_BLL\bin\Debug\net6.0\Project_DAL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_BLL\obj\Debug\net6.0\Project_BLL.csproj.AssemblyReference.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_BLL\obj\Debug\net6.0\Project_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfoInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_BLL\obj\Debug\net6.0\Project_BLL.AssemblyInfo.cs
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_BLL\obj\Debug\net6.0\Project_BLL.csproj.CoreCompileInputs.cache
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_BLL\obj\Debug\net6.0\Project_.FD033855.Up2Date
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_BLL\obj\Debug\net6.0\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_BLL\obj\Debug\net6.0\refint\Project_BLL.dll
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_BLL\obj\Debug\net6.0\Project_BLL.pdb
+C:\Users\opala\OneDrive\Рабочий стол\MAPFINAL – копія – копія\_BLL\obj\Debug\net6.0\ref\Project_BLL.dll

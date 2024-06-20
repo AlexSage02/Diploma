@@ -1,0 +1,1003 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\map\\map.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\map\\map.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\controllers\\mapeventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\controllers\\mapeventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\controllers\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\controllers\\mapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\models\\mapeventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\mapeventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_dal\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|solutionrelative:_dal\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\project_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\project_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|solutionrelative:_dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_dal\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|solutionrelative:_dal\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_dal\\mapevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|solutionrelative:_dal\\mapevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_dal\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|solutionrelative:_dal\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656B80B9-D520-4AD0-8569-C462854A4F15}|_BLL\\Project_BLL.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_bll\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656B80B9-D520-4AD0-8569-C462854A4F15}|_BLL\\Project_BLL.csproj|solutionrelative:_bll\\bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656B80B9-D520-4AD0-8569-C462854A4F15}|_BLL\\Project_BLL.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_bll\\ilogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656B80B9-D520-4AD0-8569-C462854A4F15}|_BLL\\Project_BLL.csproj|solutionrelative:_bll\\ilogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656B80B9-D520-4AD0-8569-C462854A4F15}|_BLL\\Project_BLL.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_bll\\ioc_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656B80B9-D520-4AD0-8569-C462854A4F15}|_BLL\\Project_BLL.csproj|solutionrelative:_bll\\ioc_bll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_dal\\ioc_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|solutionrelative:_dal\\ioc_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_dal\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|solutionrelative:_dal\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_dal\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|solutionrelative:_dal\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_dal\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|solutionrelative:_dal\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_dal\\repositories\\imapeventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|solutionrelative:_dal\\repositories\\imapeventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_dal\\repositories\\mapeventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|solutionrelative:_dal\\repositories\\mapeventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_dal\\mainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|solutionrelative:_dal\\mainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\event\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\event\\events.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\event\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_dal\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF33F3C-3543-40F2-AC75-1FD726302554}|_DAL\\Project_DAL.csproj|solutionrelative:_dal\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\event\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\event\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\mapevent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\mapevent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\mapevent\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\mapevent\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\views\\mapevent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\views\\mapevent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|c:\\users\\opala\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\mapfinal \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\project_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C21A0B60-C46A-4E0F-B97D-D3D0EB003301}|Project_MVC\\Project_MVC.csproj|solutionrelative:project_mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T12:13:47.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MapEventModel.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Models\\MapEventModel.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\MapEventModel.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Models\\MapEventModel.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\MapEventModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:14:32.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapEventController.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Controllers\\MapEventController.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Controllers\\MapEventController.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Controllers\\MapEventController.cs",
+              "RelativeToolTip": "Project_MVC\\Controllers\\MapEventController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:12:05.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MapController.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Controllers\\MapController.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Controllers\\MapController.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Controllers\\MapController.cs",
+              "RelativeToolTip": "Project_MVC\\Controllers\\MapController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:58:22.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Models\\EventModel.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\EventModel.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Models\\EventModel.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\EventModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:15:14.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Map.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Map\\Map.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Map\\Map.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Map\\Map.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Map\\Map.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAlwCQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T18:57:54.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:27:08.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Project_MVC\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:12:05.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T12:13:49.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T12:13:45.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T12:13:53.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T12:49:57.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:29:02.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Project_MVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-23T18:49:48.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:59:40.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T14:55:55.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "_DAL\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\DatabaseContext.cs",
+              "RelativeToolTip": "_DAL\\DatabaseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:12:05.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Project_MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Project_MVC.csproj",
+              "RelativeDocumentMoniker": "Project_MVC\\Project_MVC.csproj",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Project_MVC.csproj",
+              "RelativeToolTip": "Project_MVC\\Project_MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T09:05:20.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Project_MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T12:46:21.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Program.cs",
+              "RelativeToolTip": "Project_MVC\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:12:06.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\IRepository.cs",
+              "RelativeDocumentMoniker": "_DAL\\IRepository.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\IRepository.cs",
+              "RelativeToolTip": "_DAL\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:12:06.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "_DAL\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\UnitOfWork.cs",
+              "RelativeToolTip": "_DAL\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:12:05.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MapEvent.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\MapEvent.cs",
+              "RelativeDocumentMoniker": "_DAL\\MapEvent.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\MapEvent.cs",
+              "RelativeToolTip": "_DAL\\MapEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:32:55.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Project_MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\appsettings.json",
+              "RelativeToolTip": "Project_MVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T12:50:01.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IoC_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\IoC_DAL.cs",
+              "RelativeDocumentMoniker": "_DAL\\IoC_DAL.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\IoC_DAL.cs",
+              "RelativeToolTip": "_DAL\\IoC_DAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:28:58.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Project_MVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAwE8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T15:37:52.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BLL.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_BLL\\BLL.cs",
+              "RelativeDocumentMoniker": "_BLL\\BLL.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_BLL\\BLL.cs",
+              "RelativeToolTip": "_BLL\\BLL.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAkwBwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:12:05.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ILogic.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_BLL\\ILogic.cs",
+              "RelativeDocumentMoniker": "_BLL\\ILogic.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_BLL\\ILogic.cs",
+              "RelativeToolTip": "_BLL\\ILogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:12:06.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IoC_BLL.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_BLL\\IoC_BLL.cs",
+              "RelativeDocumentMoniker": "_BLL\\IoC_BLL.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_BLL\\IoC_BLL.cs",
+              "RelativeToolTip": "_BLL\\IoC_BLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:21:12.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\Event.cs",
+              "RelativeDocumentMoniker": "_DAL\\Event.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\Event.cs",
+              "RelativeToolTip": "_DAL\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:12:06.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Project_MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Project_MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-17T18:15:46.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "_DAL\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\IUnitOfWork.cs",
+              "RelativeToolTip": "_DAL\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:12:06.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "_DAL\\Repositories\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "_DAL\\Repositories\\EventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:12:06.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\Repositories\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "_DAL\\Repositories\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\Repositories\\IEventRepository.cs",
+              "RelativeToolTip": "_DAL\\Repositories\\IEventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:12:05.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IMapEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\Repositories\\IMapEventRepository.cs",
+              "RelativeDocumentMoniker": "_DAL\\Repositories\\IMapEventRepository.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\Repositories\\IMapEventRepository.cs",
+              "RelativeToolTip": "_DAL\\Repositories\\IMapEventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:12:05.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MapEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\Repositories\\MapEventRepository.cs",
+              "RelativeDocumentMoniker": "_DAL\\Repositories\\MapEventRepository.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\Repositories\\MapEventRepository.cs",
+              "RelativeToolTip": "_DAL\\Repositories\\MapEventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:12:06.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MainRepository.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\MainRepository.cs",
+              "RelativeDocumentMoniker": "_DAL\\MainRepository.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\MainRepository.cs",
+              "RelativeToolTip": "_DAL\\MainRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:12:05.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Events.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Event\\Events.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Event\\Events.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Event\\Events.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Event\\Events.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T11:12:06.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Event\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Event\\Create.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Event\\Create.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Event\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:13:44.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "_DAL\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\_DAL\\BaseEntity.cs",
+              "RelativeToolTip": "_DAL\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T11:12:06.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Event\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Event\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Event\\Edit.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Event\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T17:04:15.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Event\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\Event\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\Event\\Delete.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\Event\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:18:21.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\MapEvent\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\MapEvent\\Index.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\MapEvent\\Index.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\MapEvent\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T11:12:06.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\MapEvent\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\MapEvent\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\MapEvent\\Delete.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\MapEvent\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:24:45.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\MapEvent\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Views\\MapEvent\\Create.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Views\\MapEvent\\Create.cshtml",
+              "RelativeToolTip": "Project_MVC\\Views\\MapEvent\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T15:05:54.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ExternalLogin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeToolTip": "Project_MVC\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAASwLIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:39:32.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ExternalLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "Project_MVC\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAASwBQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T15:35:17.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ExternalLogins.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "RelativeToolTip": "Project_MVC\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T15:38:16.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Project_MVC\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:40:12.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "Project_MVC\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T19:33:31.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Project_MVC\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T18:59:17.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LoginWith2fa.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeToolTip": "Project_MVC\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAASwBwAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T19:26:41.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoginWithRecoveryCode.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeToolTip": "Project_MVC\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T19:27:06.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "Project_MVC\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T18:56:52.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Project_MVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Project_MVC\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAEwFMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T19:17:36.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Project_MVC\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "Project_MVC\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T18:59:43.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "bootstrap.bundle.min.js.map",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+              "RelativeDocumentMoniker": "Project_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+              "RelativeToolTip": "Project_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAAAAAC1IwQA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-03T12:13:36.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "bootstrap.bundle.js.map",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "RelativeDocumentMoniker": "Project_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "RelativeToolTip": "Project_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAwFQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-03T12:13:28.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "Project_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeToolTip": "Project_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAD/jQIA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-24T09:05:40.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "Project_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "Project_MVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAlwK0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-15T15:30:06.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Project_MVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\opala\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\MAPFINAL \u2013 \u043A\u043E\u043F\u0456\u044F \u2013 \u043A\u043E\u043F\u0456\u044F\\Project_MVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Project_MVC\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-15T11:21:04.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

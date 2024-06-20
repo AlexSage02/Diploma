@@ -1,0 +1,17 @@
+﻿@model EventModel
+
+<form method="post" asp-action="DeletePOST">
+	<input asp-for="Name" hidden>
+	<div class="border p-3 mt-4">
+		<div class="row pb-2">
+			<h2 class="text-primary">Видалення події</h2>
+			<hr />
+		</div>
+		<div class="mb-3">
+			<label asp-for="Name">Назва події</label>
+			<input asp-for="Name" disabled class="form-control"/>
+		</div>
+		<button type="submit" class="btn btn-danger" style="width:150px  ">Видалити</button>
+		<a asp-controller="Event" asp-action="Events" class="btn btn-secondary" style="width:150px">Назад</a>
+	</div>
+</form>
